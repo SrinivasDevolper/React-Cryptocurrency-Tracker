@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  justify-content: center;
+}
+
+.crypto {
+  width: 50%;
+}
+
+.heading {
+  color: #00e7ff;
+  /* font-family: 'Roboto'; */
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #ffffff;
+}

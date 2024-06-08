@@ -1,0 +1,28 @@
+ul {
+  border: 2px solid #00e7ff;
+  margin-top: 20px;
+  width: 60%;
+  border-radius: 5px;
+}
+ul div {
+  display: flex;
+  align-items: center;
+  background-color: #092e33;
+  padding: 4px;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+
+.nav-cont1 {
+  width: 80%;
+}
+
+.nav-cont2 {
+  width: 50%;
+  margin-right: 30px;
+  text-align: left;
+}

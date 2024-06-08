@@ -1,0 +1,28 @@
+li {
+  display: flex !important;
+  flex-direction: row !important;
+  padding: 6px;
+  background-color: #000000 !important;
+}
+
+li p {
+  color: #ffffff;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
+
+.list-cont1 {
+  width: 80%;
+  background-color: #000000;
+}
+
+.lsit-cont2 {
+  width: 50%;
+  margin-right: 60px;
+  text-align: left;
+}
+
+.item-logo {
+  width: 20px;
+  margin-right: 10px;
+}
